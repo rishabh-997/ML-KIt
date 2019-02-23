@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "281691531725",
+    "firebase_url": "https://ml-kit-7c253.firebaseio.com",
+    "project_id": "ml-kit-7c253",
+    "storage_bucket": "ml-kit-7c253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281691531725:android:99e83d8a182a439c",
+        "android_client_info": {
+          "package_name": "com.example.android.imagetoword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281691531725-rruu56o0mp0s0phcs2imq2t5smr1b901.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEd8Ac5rGGymPwVXPu4XZIEz4XXdB6HhU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
